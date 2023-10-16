@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{56ef19d3-7259-46b7-8f29-013e50622cd4}">
+		<property name="assetPath">
+			<value>Audio/Enemies/Gunner/GunnerShieldOff01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.78514583333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ad383399-27a6-40c0-83b4-b59352eea28b}">
+		<property name="assetPath">
+			<value>Audio/Interactables/PushClayBoxEnd.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>

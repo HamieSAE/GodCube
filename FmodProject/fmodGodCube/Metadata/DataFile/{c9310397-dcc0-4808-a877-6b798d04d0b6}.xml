@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{c9310397-dcc0-4808-a877-6b798d04d0b6}">
+		<property name="assetPath">
+			<value>Audio/FX/Shield.asset</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>

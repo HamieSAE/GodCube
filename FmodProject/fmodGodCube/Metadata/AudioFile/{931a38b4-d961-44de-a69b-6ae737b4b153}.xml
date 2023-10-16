@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{931a38b4-d961-44de-a69b-6ae737b4b153}">
+		<property name="assetPath">
+			<value>Audio/Enemies/Spitter/SpitterFootstepRun02.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.388625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>

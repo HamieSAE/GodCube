@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{ce24d671-fd60-4f8b-ad23-fb357d45a8c9}">
+		<property name="assetPath">
+			<value>Audio/Enemies/Spitter/SpitterSpitCharge01.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>

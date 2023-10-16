@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{d2a605b1-06b4-4dc8-9d41-e02399971c44}">
+		<property name="assetPath">
+			<value>Audio/Ellen/Emotes/EllenEmotesEffortLarge02.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>

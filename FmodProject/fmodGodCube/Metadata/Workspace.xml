@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{9f5c0713-6ed1-4ed7-8ab2-2f61cda87c60}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../../../Documents/GitHub/GodCube/FmodBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{eefd0e6f-cf2d-4ba2-a274-2bedfd1a0c76}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{22e91b7c-50a8-446c-b830-2fe0842468aa}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{38e39696-9cd7-41fd-9a83-2a78626cadf6}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{c8d3cfea-3469-48ad-9fc1-b0bd8fb1b81a}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{65398abf-918f-473e-a2d0-3443fc78bafb}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{b29f8961-281e-4ed1-a021-37ed5ca6ca0c}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{27d646c1-8da0-4faa-a364-17f43663231e}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{00fc1444-392c-46fc-930b-9f1db93ca705}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{be14536c-02f0-4a4d-a886-b93522187ce9}</destination>
+		</relationship>
+	</object>
+</objects>

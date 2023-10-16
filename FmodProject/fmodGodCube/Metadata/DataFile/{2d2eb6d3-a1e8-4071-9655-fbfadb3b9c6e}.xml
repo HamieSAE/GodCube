@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{2d2eb6d3-a1e8-4071-9655-fbfadb3b9c6e}">
+		<property name="assetPath">
+			<value>Audio/Enemies/Gunner/GunnerLightningAttack.ogg.meta</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{683c3875-462e-4b3e-8277-d9c4dc0e3796}</destination>
+		</relationship>
+	</object>
+</objects>
